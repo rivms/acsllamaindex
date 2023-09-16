@@ -1,4 +1,3 @@
-# acsllamaindex
 Notebooks demonstrating the use of Azure Cognitive Search with llama_index
 
 |Notebook|Description|
